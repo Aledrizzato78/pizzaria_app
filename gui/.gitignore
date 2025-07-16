@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pddf
+orders/*.pdf
+venv/
+*.log
+.env

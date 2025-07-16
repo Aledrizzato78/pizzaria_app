@@ -1,0 +1,23 @@
+pizzaria_app/
+├── .venv/  
+├── data/
+│   ├── __init__.py
+│   └── db.py
+├── gui/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── cadastro.py
+│   ├── pedido.py
+│   ├── principal.py
+│   └── startup.py
+├── license/
+│   ├── __init__.py
+│   ├── generator.py
+│   └── validator.py
+├── printer/
+│   ├── __init__.py
+│   ├── escpos_service.py
+│   └── orders/
+├── main.py
+├── requirements.txt
+└── schema.sql
